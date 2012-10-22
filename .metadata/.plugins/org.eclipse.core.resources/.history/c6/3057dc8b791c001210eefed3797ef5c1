@@ -1,0 +1,13 @@
+package zznq.burly.word.mountain_droid;
+
+import android.hardware.Camera;
+import android.view.SurfaceView;
+import android.view.SurfaceHolder;
+
+public class CameraPreview extends SurfaceView implements SurfaceHolder.Callback {
+	private SurfaceHolder mHolder;
+	private Camera mCamera;
+	
+	
+}
+	
